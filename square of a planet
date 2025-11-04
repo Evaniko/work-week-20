@@ -11,5 +11,5 @@ int main() {
     scanf("%d", &number);
     Square = Calculate_Square(number);
     printf("The square of %d is %d.\n", number, Square);
-    return 0;/*
+    return 0;
 }
