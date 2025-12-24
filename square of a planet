@@ -8,7 +8,7 @@ int Calculate_Square(int Number) {
 int main() {
     int number, Square;
     printf(" \n Please enter a number: ");
-    scanf("%d", &number);**
+    scanf("%d", &number);
     Square = Calculate_Square(number);
     printf("The square of %d is %d.\n", number, Square);
     return 0;
