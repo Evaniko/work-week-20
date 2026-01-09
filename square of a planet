@@ -5,7 +5,7 @@ int Calculate_Square(int Number) {
     return Number * Number;
 }
 
-int main() {
+int main() {**
     int number, Square;
     printf(" \n Please enter a number: ");
     scanf("%d", &number);
