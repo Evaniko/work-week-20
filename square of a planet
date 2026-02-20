@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Function to calculate the square of a number()
+// Function to calculate the square of a number
 int Calculate_Square(int Number) {
     return Number * Number;
 }
